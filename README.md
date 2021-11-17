@@ -1,5 +1,5 @@
 # correlaid-hackathon-spatialdata
-Collection of data sources for the [CorrelAid Urban Planning X Spatial Data Hackathon with City Interaction Lab](https://www.eventbrite.com/e/spatial-data-for-urban-planning-joint-hackathon-with-city-interaction-lab-tickets-137419271741). 
+Collection of data sources for the [CorrelAid Urban Planning X Spatial Data Hackathon with City Interaction Lab](https://www.eventbrite.com/e/spatial-data-for-urban-planning-joint-hackathon-with-city-interaction-lab-tickets-137419271741) in 2021.
 
 
 ## **Challenge 1: OSM + mobility: Anaylzing Urban Mobility Using Rental Bikeshare Data**
